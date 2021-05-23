@@ -18,7 +18,7 @@ This examples uses [SamIam](http://reasoning.cs.ucla.edu/samiam/) software and [
 
 Open [credit.net](https://raw.githubusercontent.com/zsxoff/bayessian-network-credit/master/credit.net) in [SamIam](http://reasoning.cs.ucla.edu/samiam/).
 
-View [credit.ipynb](https://raw.githubusercontent.com/zsxoff/bayessian-network-credit/master/credit.ipynb) in [Jupyter](https://jupyter.org/).
+View [credit.ipynb](https://github.com/zsxoff/bayessian-network-credit/blob/master/credit.ipynb) in [Jupyter](https://jupyter.org/).
 See all packages and dependencies in [Pipfile](<https://github.com/zsxoff/bayessian-network-credit/blob/master/Pipfile>).
 
 ## License
