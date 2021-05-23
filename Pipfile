@@ -8,6 +8,7 @@ pgmpy = "*"
 pygraphviz = "*"
 matplotlib = "*"
 networkx = "*"
+pandas = "*"
 
 [dev-packages]
 jupyterlab-code-formatter = "*"
