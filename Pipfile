@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pgmpy = "*"
+pygraphviz = "*"
+matplotlib = "*"
+networkx = "*"
+
+[dev-packages]
+jupyterlab-code-formatter = "*"
+jupyterlab = "*"
+isort = "*"
+black = "==19.10b0"
+pre-commit = "*"
+
+[requires]
+python_version = "3.6"
