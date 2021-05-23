@@ -14,6 +14,8 @@ This examples uses [SamIam](http://reasoning.cs.ucla.edu/samiam/) software and [
 
 ## View examples
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zsxoff/bayessian-network-credit/master)
+
 Open [credit.net](https://raw.githubusercontent.com/zsxoff/bayessian-network-credit/master/credit.net) in [SamIam](http://reasoning.cs.ucla.edu/samiam/).
 
 View [credit.ipynb](https://raw.githubusercontent.com/zsxoff/bayessian-network-credit/master/credit.ipynb) in [Jupyter](https://jupyter.org/).
